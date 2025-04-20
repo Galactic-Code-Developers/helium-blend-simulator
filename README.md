@@ -24,7 +24,7 @@ This project is a Python-based Jupyter Notebook that simulates an AI-optimized h
 3. Run all cells and adjust the sliders to see results
 
 ## ▶️ Open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/helium-blend-simulator/blob/main/Smart_Helium_Blend_Simulator_GitHubReady.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Galactic-Code-Developers/helium-blend-simulator/blob/main/Smart_Helium_Blend_Simulator_GitHubReady.ipynb)
 
 ## 🧪 License
 MIT License
